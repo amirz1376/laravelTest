@@ -1,5 +1,5 @@
 <?php
-
+/* added a comment */
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
